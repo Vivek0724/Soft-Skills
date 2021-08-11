@@ -9,7 +9,7 @@ With Flexbox, we can arrange items left to right, right to left, top to bottom, 
      CSS Grid Layout, is a two-dimensional grid-based layout system with rows and columns, making it easier to design web pages without having to use floats and positioning. Like tables, grid layout allow us to align elements into columns and rows.
 To get started you have to define a container element as a grid with display: grid, set the column and row sizes with grid-template-columns and grid-template-rows, and then place its child elements into the grid with grid-column and grid-row.
 
-##UNIQUENESS IN GRID AND FLEXBOX:
+## UNIQUENESS IN GRID AND FLEXBOX:
 
 **One Vs Two Dimension:**
 
